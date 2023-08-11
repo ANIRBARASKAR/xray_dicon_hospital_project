@@ -1,0 +1,6 @@
+Package                         Current   Wanted         Latest  Location  Depended by
+babel-loader                    MISSING    8.3.0          9.1.2  -         dive-electronJS
+css-loader                      MISSING    4.3.0          6.7.3  -         dive-electronJS
+electron-reload                 MISSING    1.5.0  2.0.0-alpha.1  -         dive-electronJS
+sass-loader                     MISSING   10.4.1         13.2.0  -         dive-electronJS
+style-loader                    MISSING    1.3.0          3.3.1  -         dive-electronJS

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; connect-src https://dive-server.udayamalla27.repl.co; img-src 'self' blob:;"
+    />
+   
+
+    <script type="text/javascript" src="include/js/cornerstone.js"></script>
+    <script
+      type="text/javascript"
+      src="include/js/cornerstoneMath.min.js"
+    ></script>
+    <script
+      type="text/javascript"
+      src="include/js/cornerstoneTools.min.js"
+    ></script>
+    <script
+      type="text/javascript"
+      src="include/js/cornerstoneWADOImageLoader.bundle.min.js"
+    ></script>
+    <script
+      type="text/javascript"
+      src="include/js/cornerstoneWebImageLoader.min.js"
+    ></script>
+    <script type="text/javascript" src="include/js/dicomParser.js"></script>
+  </head>
+
+  <body>
+    <style>
+    
+      body {
+        display: block;
+        margin: 0;
+        font-family: Serif !important;
+      }
+
+      button > div > .viewport-element {
+        border: 1px solid #535151;
+        width: 100%;
+        margin: 0;
+      }
+
+      ::-webkit-scrollbar {
+        display: none;
+      }
+
+      #root {
+        height: 100vh;
+        width: 100vw;
+      }
+    
+      #basic-menu {
+        z-index: 1400;
+      }
+    </style>
+    <div id="root"></div>
+    <script src="./build/app.js"></script>
+
+
+   
+  </body>
+</html>

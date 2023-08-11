@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="1080px" viewBox="0 0 1920 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>Chart Block</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="96.7609159%" x2="50%" y2="15.8241439%" id="linearGradient-1">
+            <stop stop-color="#009DF2" stop-opacity="0.0873245018" offset="0%"/>
+            <stop stop-color="#009CEE" stop-opacity="0.37035779" offset="100%"/>
+        </linearGradient>
+        <path d="M0,673 C0,673 77.771591,645.692581 169.570866,615.030547 C261.370141,584.368513 271.615088,523.391609 331.066929,507.679709 C390.51877,491.967809 394.608657,565.550549 502.656496,527.00286 C610.704336,488.45517 579.295411,404.103134 650.021654,393.88782 C720.747896,383.672506 763.375346,477.385868 829.686024,479.768491 C895.996702,482.151113 1088.96918,126.694567 1136.52854,95.4524889 C1184.08791,64.2104107 1265.6537,213.280919 1332.34252,209.244378 C1399.03134,205.207836 1460.00401,0.293412633 1564.49311,7.42480132 C1668.98221,14.55619 1669.5267,47.6889342 1764.34449,46.0711039 C1859.16228,44.4532737 1905.08212,9.84756797 1941.99016,0.983751014 C1978.89819,-7.88006595 2012.64469,46.0711032 2012.64469,46.0711032 L2051,134.098791" id="path-2"/>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"/>
+            <feOffset dx="0" dy="5" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowInner"/>
+            <feOffset dx="0" dy="5" in="shadowInner" result="shadowInner"/>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"/>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+            <feColorMatrix values="0 0 0 0 0.531940499   0 0 0 0 0.837196695   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"/>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#C0CEDA" offset="0%"/>
+            <stop stop-color="#8CA0B3" offset="100%"/>
+        </linearGradient>
+        <circle id="path-5" cx="328" cy="707" r="17"/>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="34" height="34" fill="white">
+            <use xlink:href="#path-5"/>
+        </mask>
+        <rect id="path-7" x="0" y="0" width="108" height="55" rx="2"/>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="108" height="55" fill="white">
+            <use xlink:href="#path-7"/>
+        </mask>
+        <circle id="path-9" cx="1556" cy="208" r="17"/>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="34" height="34" fill="white">
+            <use xlink:href="#path-9"/>
+        </mask>
+        <rect id="path-11" x="0" y="0" width="108" height="55" rx="2"/>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="108" height="55" fill="white">
+            <use xlink:href="#path-11"/>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Login-Copy">
+            <rect id="Rectangle-12-Copy" fill="#FFFFFF" x="1" y="0" width="952" height="779" rx="2"/>
+            <g id="Filter-Bar" transform="translate(-1.000000, 5.000000)">
+                <g id="Group-2" transform="translate(0.000000, 200.000000)">
+                    <path d="M0,674.133231 C0,674.133231 77.771591,646.779831 169.570866,616.066167 C261.370141,585.352502 271.615088,524.272922 331.066929,508.534566 C390.51877,492.796209 394.608657,566.502852 502.656496,527.890254 C610.704336,489.277655 579.295411,404.783584 650.021654,394.551068 C720.747896,384.318553 763.375346,478.189715 829.686024,480.576349 C895.996702,482.962984 1088.96918,126.907902 1136.52854,95.6132166 C1184.08791,64.3185315 1265.6537,213.640053 1332.34252,209.596714 C1399.03134,205.553375 1460.00401,0.293906696 1564.49311,7.43730358 C1668.98221,14.5807005 1669.5267,47.7692352 1764.34449,46.1486808 C1859.16228,44.5281264 1905.08212,9.86414981 1941.99016,0.985407504 C1978.89819,-7.8933348 2012.64469,46.14868 2012.64469,46.14868 L2051,134.324593 L2051,1233 L0,1233 L0,674.133231 Z" id="Path-34" fill="url(#linearGradient-1)" opacity="0.42735541"/>
+                    <g id="Path-34-Copy">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"/>
+                        <use stroke="#60C1F7" stroke-width="2" xlink:href="#path-2"/>
+                    </g>
+                </g>
+                <g id="Chart-Block" stroke-linecap="square">
+                    <path d="M1.5,1.37340153 L1.5,1072.91177" id="Line" stroke="#4187E6" opacity="0.606809701"/>
+                    <g id="Group" transform="translate(108.000000, 0.000000)" stroke="#8CA0B3" stroke-width="0.5" opacity="0.606809701" stroke-dasharray="2,2,2">
+                        <path d="M0.345890411,1.37340153 L0.345890411,1072.91177" id="Line-Copy-6"/>
+                        <path d="M110.292529,1.37340153 L110.292529,1072.91177" id="Line-Copy-7"/>
+                        <path d="M220.239167,1.37340153 L220.239167,1072.91177" id="Line-Copy-8"/>
+                        <path d="M330.185805,1.37340153 L330.185805,1072.91177" id="Line-Copy-9"/>
+                        <path d="M440.132443,1.37340153 L440.132443,1072.91177" id="Line-Copy-10"/>
+                        <path d="M660.02572,1.37340153 L660.02572,1072.91177" id="Line-Copy-12"/>
+                        <path d="M769.972358,1.37340153 L769.972358,1072.91177" id="Line-Copy-13"/>
+                        <path d="M879.918996,1.37340153 L879.918996,1072.91177" id="Line-Copy-14"/>
+                        <path d="M1099.81227,1.37340153 L1099.81227,1072.91177" id="Line-Copy-16"/>
+                        <path d="M1211.0524,1.37340153 L1211.0524,1072.91177" id="Line-Copy-17"/>
+                    </g>
+                    <path d="M1.64642507,1071.5 L1320.53672,1071.5" id="Line" stroke="#8CA0B3" opacity="0.694846082"/>
+                    <path d="M1.64649682,479.5 L609.441536,479.5" id="Line-Copy-19" stroke="#C6EBFF" opacity="0.694846082"/>
+                    <path d="M1.64642507,852.5 L1320.53672,852.5" id="Line-Copy" stroke="#8CA0B3" stroke-width="0.5" stroke-dasharray="2,2,2,2" opacity="0.756413246"/>
+                    <path d="M1.64642507,955.5 L1320.53672,955.5" id="Line-Copy-22" stroke="url(#linearGradient-4)" stroke-width="0.5" stroke-dasharray="2,2,2,2" opacity="0.756413246"/>
+                    <path d="M1.64642507,212.5 L1320.53672,212.5" id="Line-Copy-3" stroke="#8CA0B3" stroke-width="0.5" stroke-dasharray="2,2,2,2" opacity="0.756413246"/>
+                    <path d="M1,358.5 L1319,358.5" id="Line-Copy-4" stroke="#8CA0B3" stroke-width="0.5" stroke-dasharray="2,2,2,2" opacity="0.756413246"/>
+                    <path d="M1,98.5 L1319,98.5" id="Line-Copy-20" stroke="#8CA0B3" stroke-width="0.5" stroke-dasharray="2,2,2,2" opacity="0.756413246"/>
+                    <path d="M1.64642507,638.5 L1320.53672,638.5" id="Line-Copy-5" stroke="#8CA0B3" stroke-width="0.5" stroke-dasharray="2,2,2,2" opacity="0.756413246"/>
+                    <path d="M1.64642507,747.5 L1320.53672,747.5" id="Line-Copy-21" stroke="#8CA0B3" stroke-width="0.5" stroke-dasharray="2,2,2,2" opacity="0.756413246"/>
+                </g>
+                <g id="Chart-Block-Copy" transform="translate(1320.000000, 0.000000)">
+                    <path d="M1.5,1.37340153 L1.5,1072.91177" id="Line" opacity="0.606809701"/>
+                    <g id="Group" transform="translate(108.000000, 0.000000)" stroke="#8CA0B3" stroke-width="0.5" stroke-linecap="square" opacity="0.606809701" stroke-dasharray="2,2,2">
+                        <path d="M0.345890411,1.37340153 L0.345890411,1072.91177" id="Line-Copy-6"/>
+                        <path d="M110.292529,1.37340153 L110.292529,1072.91177" id="Line-Copy-7"/>
+                        <path d="M220.239167,1.37340153 L220.239167,1072.91177" id="Line-Copy-8"/>
+                        <path d="M330.185805,1.37340153 L330.185805,1072.91177" id="Line-Copy-9"/>
+                        <path d="M440.132443,1.37340153 L440.132443,1072.91177" id="Line-Copy-10"/>
+                    </g>
+                    <path d="M1.64642507,1071.5 L1320.53672,1071.5" id="Line" stroke="#8CA0B3" stroke-linecap="square" opacity="0.694846082"/>
+                    <path d="M1.64649682,479.5 L609.441536,479.5" id="Line-Copy-19" stroke="#C6EBFF" stroke-linecap="square" opacity="0.694846082"/>
+                    <path d="M1.64642507,852.5 L1320.53672,852.5" id="Line-Copy" stroke="#8CA0B3" stroke-width="0.5" stroke-linecap="square" stroke-dasharray="2,2,2,2" opacity="0.756413246"/>
+                    <path d="M1.64642507,955.5 L1320.53672,955.5" id="Line-Copy-22" stroke="url(#linearGradient-4)" stroke-width="0.5" stroke-linecap="square" stroke-dasharray="2,2,2,2" opacity="0.756413246"/>
+                    <path d="M1.64642507,212.5 L1320.53672,212.5" id="Line-Copy-3" stroke="#8CA0B3" stroke-width="0.5" stroke-linecap="square" stroke-dasharray="2,2,2,2" opacity="0.756413246"/>
+                    <path d="M1,358.5 L1319,358.5" id="Line-Copy-4" stroke="#8CA0B3" stroke-width="0.5" stroke-linecap="square" stroke-dasharray="2,2,2,2" opacity="0.756413246"/>
+                    <path d="M1,98.5 L1319,98.5" id="Line-Copy-20" stroke="#8CA0B3" stroke-width="0.5" stroke-linecap="square" stroke-dasharray="2,2,2,2" opacity="0.756413246"/>
+                    <path d="M1.64642507,638.5 L1320.53672,638.5" id="Line-Copy-5" stroke="#8CA0B3" stroke-width="0.5" stroke-linecap="square" stroke-dasharray="2,2,2,2" opacity="0.756413246"/>
+                    <path d="M1.64642507,747.5 L1320.53672,747.5" id="Line-Copy-21" stroke="#8CA0B3" stroke-width="0.5" stroke-linecap="square" stroke-dasharray="2,2,2,2" opacity="0.756413246"/>
+                </g>
+                <use id="Oval-69-Copy" stroke="#60C1F7" mask="url(#mask-6)" stroke-width="14" fill="#FFFFFF" xlink:href="#path-5"/>
+                <g id="Group-3" transform="translate(273.000000, 609.000000)">
+                    <use id="Base" stroke="#96D6DF" mask="url(#mask-8)" stroke-width="8.1081" fill="#96D6DF" xlink:href="#path-7"/>
+                    <text id="1.75" font-family="Circular-Std-Bold, Circular Std" font-size="24.6075949" font-weight="bold" letter-spacing="2.57142854" fill="#FFFFFF">
+                        <tspan x="31" y="35">1.75</tspan>
+                    </text>
+                </g>
+                <use id="Oval-69-Copy-2" stroke="#60C1F7" mask="url(#mask-10)" stroke-width="14" fill="#FFFFFF" xlink:href="#path-9"/>
+                <g id="Group-3-Copy" transform="translate(1501.000000, 110.000000)">
+                    <use id="Base" stroke="#96D6DF" mask="url(#mask-12)" stroke-width="8.1081" fill="#96D6DF" xlink:href="#path-11"/>
+                    <text id="4.56" font-family="Circular-Std-Bold, Circular Std" font-size="24.6075949" font-weight="bold" letter-spacing="2.57142854" fill="#FFFFFF">
+                        <tspan x="26" y="37">4.56</tspan>
+                    </text>
+                </g>
+                <text id="4.75" font-family="Circular-Std-Bold, Circular Std" font-size="18" font-weight="bold" letter-spacing="2.57142854" fill="#FFFFFF">
+                    <tspan x="806" y="185">4.75</tspan>
+                </text>
+            </g>
+            <g id="social-heart" transform="translate(474.000000, 706.000000)">
+                <g id="Слой_1"/>
+            </g>
+        </g>
+    </g>
+</svg>
